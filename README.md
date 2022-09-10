@@ -67,6 +67,11 @@ This project uses clustering methodologies and regression algorithms to predict 
 
 ![plotly 3d scatter](https://user-images.githubusercontent.com/105242871/189498981-814b93a8-5bd5-4fc2-97ad-a4aacb3971df.GIF)
 
+This geo map is to serve as a data overview of the property data of the dataset.
+
+![overview](https://user-images.githubusercontent.com/105242871/189499109-9736045b-85e4-4827-baad-36fb2d23cbb1.jpg)
+
+
 ## Tableau Dashbaords
 ### Aliens in America Competition
 This dashboard looks nothing like most dashborads I've created before, and I had so much fun with it! I hope to emphasize the Alien theme, and to break the "traditional rules" of dashboard design. This competition is hoste by [Ian Klosowicz](https://www.linkedin.com/in/ian-klosowicz/), and you can find the dataset [here](https://app.gumroad.com/d/0fb71d07cc5cb8c46be599e272e36eed).
