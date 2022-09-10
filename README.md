@@ -1,5 +1,11 @@
 # Data Science Visualizations
 This repository is to showcase the visualizations/dashboards I created during projects and my spontaneous explorations. Hope they serve as visual inspirations for you and me :)
+
+## Table of Contents
+- [WordClouds](https://github.com/m3redithw/data-science-visualizations/edit/main/README.md#wordclouds)
+- 3D Visuals
+- [Dashboards](https://github.com/m3redithw/data-science-visualizations/edit/main/README.md#tableau-dashbaords)
+
 ## WordClouds
 ### FANNG
 I wrote an article on how to create and customize word clouds in Python, and I used FAANG companies' logos as examples for illustration.
