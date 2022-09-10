@@ -3,7 +3,7 @@ This repository is to showcase the visualizations/dashboards I created during pr
 
 ## Table of Contents
 - [WordClouds](https://github.com/m3redithw/data-science-visualizations/edit/main/README.md#wordclouds)
-- 3D Visuals
+- [Charts & Graphs](https://github.com/m3redithw/data-science-visualizations/edit/main/README.md#charts--graphs)
 - [Dashboards](https://github.com/m3redithw/data-science-visualizations/edit/main/README.md#tableau-dashbaords)
 
 ## WordClouds
@@ -31,7 +31,7 @@ I wrote an article on how to create and customize word clouds in Python, and I u
 ![google_wc](https://user-images.githubusercontent.com/105242871/189498324-8b0e45d2-0506-401b-ba5b-61cea41fe128.png)
 
 ### Programming Languages in the Metaverse
-Me and my teammates worked on a NLP project exploring programming langugages and text pattern in the metaverse, and I craeted these word clouds for our EDA. Which developer are you? :technologist:
+Me and my teammates worked on a [NLP project](https://github.com/MBM-nlp/github_classification_project) exploring programming langugages and text pattern in the metaverse, and I craeted these word clouds for our EDA. Which developer are you? :technologist:
 
 **Java**
 
@@ -61,6 +61,11 @@ Me and my teammates worked on a NLP project exploring programming langugages and
 
 ![contour_typescript](https://user-images.githubusercontent.com/105242871/189498728-07c01b7b-6463-4059-82ea-7953ee9c5513.png)
 
+## Charts & Graphs
+### Zestimates Prediction
+This project uses clustering methodologies and regression algorithms to predict the logerror of Zestimates. This 3D graph is to explore 2 variables, with high multicollinearity, and their relationship with a feature of the regression model.
+
+![plotly 3d scatter](https://user-images.githubusercontent.com/105242871/189498981-814b93a8-5bd5-4fc2-97ad-a4aacb3971df.GIF)
 
 ## Tableau Dashbaords
 ### Aliens in America Competition
