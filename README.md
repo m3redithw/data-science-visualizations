@@ -62,14 +62,17 @@ Me and my teammates worked on a [NLP project](https://github.com/MBM-nlp/github_
 ![contour_typescript](https://user-images.githubusercontent.com/105242871/189498728-07c01b7b-6463-4059-82ea-7953ee9c5513.png)
 
 ## Charts & Graphs
-### Zestimates Prediction
+### [Zestimates Prediction](https://github.com/m3redithw/Zestimates-Clustering-Project)
 This project uses clustering methodologies and regression algorithms to predict the logerror of Zestimates. This 3D graph is to explore 2 variables, with high multicollinearity, and their relationship with a feature of the regression model.
 
 ![plotly 3d scatter](https://user-images.githubusercontent.com/105242871/189498981-814b93a8-5bd5-4fc2-97ad-a4aacb3971df.GIF)
 
 This geo map is to serve as a data overview of the property data of the dataset.
 
-![overview](https://user-images.githubusercontent.com/105242871/189499109-9736045b-85e4-4827-baad-36fb2d23cbb1.jpg)
+![overview](https://user-images.githubusercontent.com/105242871/189499143-be44f4f3-1640-4f41-a120-9e2be495b979.jpg)
+
+### [Web Activity Anomaly Detection](https://github.com/JML-Association/Anomaly-Detection-Project)
+<img width="999" alt="user_activity" src="https://user-images.githubusercontent.com/105242871/189499173-d82e59c7-3e7b-4f70-932c-b763e3eb8791.png">
 
 
 ## Tableau Dashbaords
