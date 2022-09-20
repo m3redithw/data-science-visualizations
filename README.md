@@ -88,7 +88,7 @@ This geo map is to serve as a data overview of the property data of the dataset.
 
 ## Tableau Dashbaords
 ### Aliens in America Competition
-This dashboard looks nothing like most dashborads I've created before, and I had so much fun with it! I hope to emphasize the Alien theme, and to break the "traditional rules" of dashboard design. This competition is hoste by [Ian Klosowicz](https://www.linkedin.com/in/ian-klosowicz/), and you can find the dataset [here](https://app.gumroad.com/d/0fb71d07cc5cb8c46be599e272e36eed).
+This dashboard looks nothing like most dashborads I've created before, and I had so much fun with it! I hope to emphasize the Alien theme, and to break the "traditional rules" of dashboard design. This competition is hosted by [Ian Klosowicz](https://www.linkedin.com/in/ian-klosowicz/), and you can find the dataset [here](https://app.gumroad.com/d/0fb71d07cc5cb8c46be599e272e36eed).
 
 ![ALIENS in America (1)](https://user-images.githubusercontent.com/105242871/188285210-83414795-516a-4eb7-bd57-613afce46dbe.jpg)
 
