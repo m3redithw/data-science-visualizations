@@ -1,7 +1,7 @@
 # Data Science Visualizations
 This repository is to showcase the visualizations/dashboards I created during projects and my spontaneous explorations. Hope they serve as visual inspirations for you and me :)
 
-## Table 
+## Table of Contents
 - [WordClouds](https://github.com/m3redithw/data-science-visualizations/edit/main/README.md#wordclouds)
 - [Charts & Graphs](https://github.com/m3redithw/data-science-visualizations/edit/main/README.md#charts--graphs)
 - [Dashboards](https://github.com/m3redithw/data-science-visualizations/edit/main/README.md#tableau-dashbaords)
