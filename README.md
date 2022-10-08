@@ -92,6 +92,9 @@ This dashboard looks nothing like most dashborads I've created before, and I had
 
 ![ALIENS in America (1)](https://user-images.githubusercontent.com/105242871/188285210-83414795-516a-4eb7-bd57-613afce46dbe.jpg)
 
-### Real Time Traffic Incident Report in Austin, Texas
+### [Real Time Traffic Incident Report in Austin, Texas](https://github.com/m3redithw/Austin-Realtime-Traffic-Incidents)
 ![Traffic_Reports](https://user-images.githubusercontent.com/105242871/189498800-6d148b7d-e4cc-440b-8352-01ba07e4b39e.png)
+
+### [Social Media Engagement Forecasting](https://github.com/Social-Media-Capstone/Social-Media-Engagement-Forecasting)
+The interactive dashboard is one of the component of the web app I built with Streamlit. If you're interested in the app and want to see more of the dashboard please visit: [web app](https://m3redithw-streamlit-home-4vvfud.streamlitapp.com/)
 
