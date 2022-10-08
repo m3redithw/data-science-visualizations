@@ -111,7 +111,7 @@ This dashboard looks nothing like most dashborads I've created before, and I had
 ![Traffic_Reports](https://user-images.githubusercontent.com/105242871/189498800-6d148b7d-e4cc-440b-8352-01ba07e4b39e.png)
 
 ### [Social Media Engagement Forecasting](https://github.com/Social-Media-Capstone/Social-Media-Engagement-Forecasting)<a name="tiktokapp"></a>
-The interactive dashboard is one of the component of the web app I built with Streamlit. If you're interested in the app and want to see more of the dashboard please visit: [web app](https://m3redithw-streamlit-home-4vvfud.streamlitapp.com/)
+The interactive dashboard is one of the component of the web app I built with Streamlit. Due to file size limitation, the demo is only able to show a few parts of the work. If you're interested in the app and want to see more of the dashboard please visit: [web app](https://m3redithw-streamlit-home-4vvfud.streamlitapp.com/)
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/105242871/194726242-3729acec-607a-4459-bc50-c5c20e60aa23.gif)
 
