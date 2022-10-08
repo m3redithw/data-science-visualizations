@@ -9,7 +9,7 @@ This repository is to showcase the visualizations/dashboards I created during pr
 ***
 
 ## WordClouds
-### FANNG
+### [FANNG](https://medium.com/mlearning-ai/wordclouds-with-python-c287887acc8b)
 I wrote an article on how to create and customize word clouds in Python, and I used FAANG companies' logos as examples for illustration.
 
 **Meta**
@@ -32,7 +32,7 @@ I wrote an article on how to create and customize word clouds in Python, and I u
 
 ![google_wc](https://user-images.githubusercontent.com/105242871/189498324-8b0e45d2-0506-401b-ba5b-61cea41fe128.png)
 
-### Programming Languages in the Metaverse
+### [Programming Languages in the Metaverse](https://github.com/MBM-nlp/github_classification_project)
 Me and my teammates worked on a [NLP project](https://github.com/MBM-nlp/github_classification_project) exploring programming langugages and text pattern in the metaverse, and I craeted these word clouds for our EDA. Which developer are you? :technologist:
 
 **Java**
