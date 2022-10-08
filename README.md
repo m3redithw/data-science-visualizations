@@ -3,13 +3,22 @@ This repository is to showcase the visualizations/dashboards I created during pr
 
 ## Table of Contents
 - [WordClouds](https://github.com/m3redithw/data-science-visualizations/edit/main/README.md#wordclouds)
+  - [FANNG](#fanng)
+  - [Programming Languages in the Metaverse](#metaverse)
 - [Charts & Graphs](https://github.com/m3redithw/data-science-visualizations/edit/main/README.md#charts--graphs)
+  - [Customer Churn Prediction](#telco)
+  - [Zestimates Prediction](#zillow)
+  - [Web Activity Anomaly Detection](#anomaly)
+  - [Social Media Engagement Forecasting](#tiktok)
 - [Dashboards](https://github.com/m3redithw/data-science-visualizations/edit/main/README.md#tableau-dashbaords)
+  -  [Aliens in America Competition](#aliens)
+  -  [Real Time Traffic Incident Report in Austin, Texas](#traffic)
+  -  [Social Media Engagement Forecasting](#tiktokapp)
 
 ***
 
 ## WordClouds
-### [FANNG](https://medium.com/mlearning-ai/wordclouds-with-python-c287887acc8b)
+### [FANNG](https://medium.com/mlearning-ai/wordclouds-with-python-c287887acc8b)<a name="fanng"></a>
 I wrote an article on how to create and customize word clouds in Python, and I used FAANG companies' logos as examples for illustration.
 
 **Meta**
@@ -32,7 +41,7 @@ I wrote an article on how to create and customize word clouds in Python, and I u
 
 ![google_wc](https://user-images.githubusercontent.com/105242871/189498324-8b0e45d2-0506-401b-ba5b-61cea41fe128.png)
 
-### [Programming Languages in the Metaverse](https://github.com/MBM-nlp/github_classification_project)
+### [Programming Languages in the Metaverse](https://github.com/MBM-nlp/github_classification_project)<a name="metaverse"></a>
 Me and my teammates worked on a [NLP project](https://github.com/MBM-nlp/github_classification_project) exploring programming langugages and text pattern in the metaverse, and I craeted these word clouds for our EDA. Which developer are you? :technologist:
 
 **Java**
@@ -66,13 +75,13 @@ Me and my teammates worked on a [NLP project](https://github.com/MBM-nlp/github_
 ***
 
 ## Charts & Graphs
-### [Customer Churn Prediction](https://github.com/m3redithw/Customer-Churn-Prediction)
+### [Customer Churn Prediction](https://github.com/m3redithw/Customer-Churn-Prediction)<a name="telco"></a>
 This project aims to identify drivers of customer churn of a campany and use machine learning classification model to predict churn. This interactive bar chart is to show customer churn vs. tenure.
 
 ![telco_barchart](https://user-images.githubusercontent.com/105242871/190888706-f8264a49-5e94-4329-97bf-0af349b2033a.gif)
 
 
-### [Zestimates Prediction](https://github.com/m3redithw/Zestimates-Clustering-Project)
+### [Zestimates Prediction](https://github.com/m3redithw/Zestimates-Clustering-Project)<a name="zillow"></a>
 This project uses clustering methodologies and regression algorithms to predict the logerror of Zestimates. This 3D graph is to explore 2 variables, with high multicollinearity, and their relationship with a feature of the regression model.
 
 ![plotly 3d scatter](https://user-images.githubusercontent.com/105242871/189498981-814b93a8-5bd5-4fc2-97ad-a4aacb3971df.GIF)
@@ -81,10 +90,10 @@ This geo map is to serve as a data overview of the property data of the dataset.
 
 ![overview](https://user-images.githubusercontent.com/105242871/189499143-be44f4f3-1640-4f41-a120-9e2be495b979.jpg)
 
-### [Web Activity Anomaly Detection](https://github.com/JML-Association/Anomaly-Detection-Project)
+### [Web Activity Anomaly Detection](https://github.com/JML-Association/Anomaly-Detection-Project)<a name="anomaly"></a>
 <img width="999" alt="user_activity" src="https://user-images.githubusercontent.com/105242871/189499173-d82e59c7-3e7b-4f70-932c-b763e3eb8791.png">
 
-### [Social Media Engagement Forecasting](https://github.com/Social-Media-Capstone/Social-Media-Engagement-Forecasting)
+### [Social Media Engagement Forecasting](https://github.com/Social-Media-Capstone/Social-Media-Engagement-Forecasting)<a name="tiktok"></a>
 One of the interactive visuals from the social media capstone. If you're intersed in the dashboard and the web app please visit: [web app](https://m3redithw-streamlit-home-4vvfud.streamlitapp.com/)
 
 <img width="961" alt="prediction" src="https://user-images.githubusercontent.com/105242871/194726384-5bd89c97-fe78-4c14-a401-b6922f1c774e.png">
@@ -93,15 +102,15 @@ One of the interactive visuals from the social media capstone. If you're interse
 ***
 
 ## Tableau Dashbaords
-### Aliens in America Competition
+### Aliens in America Competition<a name="aliens"></a>
 This dashboard looks nothing like most dashborads I've created before, and I had so much fun with it! I hope to emphasize the Alien theme, and to break the "traditional rules" of dashboard design. This competition is hosted by [Ian Klosowicz](https://www.linkedin.com/in/ian-klosowicz/), and you can find the dataset [here](https://app.gumroad.com/d/0fb71d07cc5cb8c46be599e272e36eed).
 
 ![ALIENS in America (1)](https://user-images.githubusercontent.com/105242871/188285210-83414795-516a-4eb7-bd57-613afce46dbe.jpg)
 
-### [Real Time Traffic Incident Report in Austin, Texas](https://github.com/m3redithw/Austin-Realtime-Traffic-Incidents)
+### [Real Time Traffic Incident Report in Austin, Texas](https://github.com/m3redithw/Austin-Realtime-Traffic-Incidents)<a name="traffic"></a>
 ![Traffic_Reports](https://user-images.githubusercontent.com/105242871/189498800-6d148b7d-e4cc-440b-8352-01ba07e4b39e.png)
 
-### [Social Media Engagement Forecasting](https://github.com/Social-Media-Capstone/Social-Media-Engagement-Forecasting)
+### [Social Media Engagement Forecasting](https://github.com/Social-Media-Capstone/Social-Media-Engagement-Forecasting)<a name="tiktokapp"></a>
 The interactive dashboard is one of the component of the web app I built with Streamlit. If you're interested in the app and want to see more of the dashboard please visit: [web app](https://m3redithw-streamlit-home-4vvfud.streamlitapp.com/)
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/105242871/194726242-3729acec-607a-4459-bc50-c5c20e60aa23.gif)
