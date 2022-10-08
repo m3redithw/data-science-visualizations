@@ -84,6 +84,12 @@ This geo map is to serve as a data overview of the property data of the dataset.
 ### [Web Activity Anomaly Detection](https://github.com/JML-Association/Anomaly-Detection-Project)
 <img width="999" alt="user_activity" src="https://user-images.githubusercontent.com/105242871/189499173-d82e59c7-3e7b-4f70-932c-b763e3eb8791.png">
 
+### [Social Media Engagement Forecasting](https://github.com/Social-Media-Capstone/Social-Media-Engagement-Forecasting)
+One of the interactive visuals from the social media capstone. If you're intersed in the dashboard and the web app please visit: [web app](https://m3redithw-streamlit-home-4vvfud.streamlitapp.com/)
+
+<img width="961" alt="prediction" src="https://user-images.githubusercontent.com/105242871/194726384-5bd89c97-fe78-4c14-a401-b6922f1c774e.png">
+
+
 ***
 
 ## Tableau Dashbaords
