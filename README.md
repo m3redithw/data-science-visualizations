@@ -18,7 +18,7 @@ This repository is to showcase the visualizations/dashboards I created during pr
 
 ***
 
-## WordClouds
+# WordClouds
 ### [FANNG](https://medium.com/mlearning-ai/wordclouds-with-python-c287887acc8b)<a name="fanng"></a>
 I wrote an article on how to create and customize word clouds in Python, and I used FAANG companies' logos as examples for illustration.
 
@@ -75,7 +75,7 @@ Me and my teammates worked on a [NLP project](https://github.com/MBM-nlp/github_
 
 ***
 
-## Charts & Graphs
+# Charts & Graphs
 ### [Customer Churn Prediction](https://github.com/m3redithw/Customer-Churn-Prediction)<a name="telco"></a>
 This project aims to identify drivers of customer churn of a campany and use machine learning classification model to predict churn. This interactive bar chart is to show customer churn vs. tenure.
 
@@ -106,7 +106,7 @@ This visualization package developed by [**Jared Wilber**](https://www.linkedin.
 
 ***
 
-## Tableau Dashbaords
+# Tableau Dashbaords
 ### Aliens in America Competition<a name="aliens"></a>
 This dashboard looks nothing like most dashborads I've created before, and I had so much fun with it! I hope to emphasize the Alien theme, and to break the "traditional rules" of dashboard design. This competition is hosted by [Ian Klosowicz](https://www.linkedin.com/in/ian-klosowicz/), and you can find the dataset [here](https://app.gumroad.com/d/0fb71d07cc5cb8c46be599e272e36eed).
 
