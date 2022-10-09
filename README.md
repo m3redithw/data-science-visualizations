@@ -10,6 +10,7 @@ This repository is to showcase the visualizations/dashboards I created during pr
   - [Zestimates Prediction](#zillow)
   - [Web Activity Anomaly Detection](#anomaly)
   - [Social Media Engagement Forecasting](#tiktok)
+  - [RoughViz](#roughviz)
 - [Dashboards](https://github.com/m3redithw/data-science-visualizations/edit/main/README.md#tableau-dashbaords)
   -  [Aliens in America Competition](#aliens)
   -  [Real Time Traffic Incident Report in Austin, Texas](#traffic)
@@ -98,6 +99,9 @@ One of the interactive visuals from the social media capstone. If you're interse
 
 <img width="961" alt="prediction" src="https://user-images.githubusercontent.com/105242871/194726384-5bd89c97-fe78-4c14-a401-b6922f1c774e.png">
 
+### [RoughViz](https://github.com/m3redithw/py-roughviz)<a name="roughviz"></a>
+This visualization package developed by [**Jared Wilber**](https://www.linkedin.com/in/jared-wilber/) is one of my absolute favorites. I can't begin to tell you how much I love this sketch-board aesthetics! It's different from the traditional visuals, yet represent the generality of the data in its unique way. Below is one of the examples, I encourage you to play around with the package!
+![roughviz](https://user-images.githubusercontent.com/105242871/194779686-224e9e4c-35db-4a19-9033-d773de8d2876.gif)
 
 ***
 
