@@ -109,7 +109,7 @@ This visualization package developed by [**Jared Wilber**](https://www.linkedin.
 ![roughvizpie](https://user-images.githubusercontent.com/105242871/194780404-b5025556-6cb4-46f3-b465-fab948f026e1.gif)
 
 ### [United States Inflation Prediction](https://github.com/m3redithw/United-States-CPI-Prediction)<a name="inflation"></a>
-Bar chart race illustrating selected-categories CPI changes in the United States over the years.
+Bar chart race illustrating selected-categories CPI changes in the United States from 1957 to 2022.
 ![bar_race_demo](https://user-images.githubusercontent.com/105242871/195744888-65bec5db-dd48-45f9-9380-a4153c477907.gif)
 
 ***
