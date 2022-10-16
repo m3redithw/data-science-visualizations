@@ -5,12 +5,15 @@ This repository is to showcase the visualizations/dashboards I created during pr
 - [WordClouds](#wc)
   - [FANNG](#fanng)
   - [Programming Languages in the Metaverse](#metaverse)
+  
 - [Charts & Graphs](#graphs)
   - [Customer Churn Prediction](#telco)
   - [Zestimates Prediction](#zillow)
   - [Web Activity Anomaly Detection](#anomaly)
   - [Social Media Engagement Forecasting](#tiktok)
   - [RoughViz](#roughviz)
+  - [United States CPI Prediction](#inflation)
+  
 - [Dashboards](#dashboards)
   -  [Aliens in America Competition](#aliens)
   -  [Real Time Traffic Incident Report in Austin, Texas](#traffic)
@@ -101,8 +104,13 @@ One of the interactive visuals from the social media capstone. If you're interse
 
 ### [RoughViz](https://github.com/m3redithw/py-roughviz)<a name="roughviz"></a>
 This visualization package developed by [**Jared Wilber**](https://www.linkedin.com/in/jared-wilber/) is one of my absolute favorites. I can't begin to tell you how much I love this sketch-board aesthetics! It's different from the traditional visuals, yet represent the generality of the data in its unique way. I encourage you to play around with the package!
+
 ![roughviz](https://user-images.githubusercontent.com/105242871/194779686-224e9e4c-35db-4a19-9033-d773de8d2876.gif)
 ![roughvizpie](https://user-images.githubusercontent.com/105242871/194780404-b5025556-6cb4-46f3-b465-fab948f026e1.gif)
+
+### [United States CPI Prediction](https://github.com/m3redithw/United-States-CPI-Prediction)<a name="inflation"></a>
+Bar chart race illustrating selected-categories CPI changes in the United States from 1957 to 2022.
+![bar_race_demo](https://user-images.githubusercontent.com/105242871/195744888-65bec5db-dd48-45f9-9380-a4153c477907.gif)
 
 ***
 
