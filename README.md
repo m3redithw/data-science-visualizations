@@ -12,7 +12,7 @@ This repository is to showcase the visualizations/dashboards I created during pr
   - [Web Activity Anomaly Detection](#anomaly)
   - [Social Media Engagement Forecasting](#tiktok)
   - [RoughViz](#roughviz)
-  - [United States Inflation Prediction](#inflation)
+  - [United States CPI Prediction](#inflation)
   
 - [Dashboards](#dashboards)
   -  [Aliens in America Competition](#aliens)
@@ -108,7 +108,7 @@ This visualization package developed by [**Jared Wilber**](https://www.linkedin.
 ![roughviz](https://user-images.githubusercontent.com/105242871/194779686-224e9e4c-35db-4a19-9033-d773de8d2876.gif)
 ![roughvizpie](https://user-images.githubusercontent.com/105242871/194780404-b5025556-6cb4-46f3-b465-fab948f026e1.gif)
 
-### [United States Inflation Prediction](https://github.com/m3redithw/United-States-CPI-Prediction)<a name="inflation"></a>
+### [United States CPI Prediction](https://github.com/m3redithw/United-States-CPI-Prediction)<a name="inflation"></a>
 Bar chart race illustrating selected-categories CPI changes in the United States from 1957 to 2022.
 ![bar_race_demo](https://user-images.githubusercontent.com/105242871/195744888-65bec5db-dd48-45f9-9380-a4153c477907.gif)
 
