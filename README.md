@@ -18,6 +18,7 @@ This repository is to showcase the visualizations/dashboards I created during pr
   -  [Aliens in America Competition](#aliens)
   -  [Real Time Traffic Incident Report in Austin, Texas](#traffic)
   -  [Social Media Engagement Forecasting](#tiktokapp)
+  -  [Spooky Oreo Cookie Monster](#oreo)
 
 ***
 
@@ -127,4 +128,8 @@ This dashboard looks nothing like most dashborads I've created before, and I had
 The interactive dashboard is one of the component of the web app I built with Streamlit. Due to file size limitation, the demo is only able to show a few parts of the work. If you're interested in the app and want to see more of the dashboard please visit: [web app](https://m3redithw-streamlit-home-4vvfud.streamlitapp.com/)
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/105242871/194726242-3729acec-607a-4459-bc50-c5c20e60aa23.gif)
+
+### [Spooky Oreo Cookie Monster](https://oreocookies-dash.streamlitapp.com/)<a name="oreo"></a>
+
+![spooky_dash](https://user-images.githubusercontent.com/105242871/197112116-a0f798c4-d2e0-4b4f-9a05-ec0f205da2e8.jpg)
 
