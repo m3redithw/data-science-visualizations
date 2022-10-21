@@ -1,0 +1,91 @@
+index,location,exported,imported,total,inUS
+0,Texas,635.0,,566.0,True
+1,Alabama,268.0,2.0,1428.0,True
+2,North Carolina,158.0,14.0,2627.0,True
+3,South Carolina,139.0,12.0,1618.0,True
+4,Georgia,137.0,19.0,3479.0,True
+5,Puerto Rico,131.0,,,False
+6,California,130.0,3.0,1664.0,True
+7,South Korea,76.0,,,False
+8,Tennessee,66.0,20.0,1769.0,True
+9,Kentucky,57.0,4.0,1123.0,True
+10,Mississippi,55.0,,510.0,True
+11,Mexico,54.0,,,False
+12,Louisiana,53.0,,912.0,True
+13,West Virginia,50.0,,565.0,True
+14,Florida,49.0,32.0,2659.0,True
+15,Arkansas,47.0,1.0,695.0,True
+16,China,28.0,,,False
+17,New Mexico,27.0,,636.0,True
+18,Thailand,20.0,,,False
+19,Virginia,20.0,183.0,3058.0,True
+20,India,18.0,,,False
+21,Taiwan,18.0,,,False
+22,New York,17.0,390.0,4002.0,True
+23,Egypt,15.0,,,False
+24,Arizona,14.0,14.0,2248.0,True
+25,Bahamas,13.0,,,False
+26,Indiana,10.0,20.0,1877.0,True
+27,Missouri,9.0,4.0,920.0,True
+28,Ohio,9.0,33.0,2670.0,True
+29,Oklahoma,9.0,5.0,1636.0,True
+30,Pennsylvania,9.0,228.0,2821.0,True
+31,Spain,8.0,,,False
+32,Haiti,7.0,,,False
+33,New Jersey,7.0,270.0,3022.0,True
+34,Oman,7.0,,,False
+35,Illinois,6.0,8.0,1114.0,True
+36,Kuwait,5.0,,,False
+37,Maryland,4.0,123.0,1493.0,True
+38,Nebraska,4.0,,120.0,True
+39,Qatar,4.0,,,False
+40,Utah,4.0,56.0,485.0,True
+41,Connecticut,3.0,51.0,1422.0,True
+42,Costa Rica,3.0,,,False
+43,Greece,3.0,,,False
+44,Idaho,3.0,,49.0,True
+45,Kansas,3.0,1.0,470.0,True
+46,Russia,3.0,,,False
+47,Wisconsin,3.0,74.0,542.0,True
+48,Afghanistan,2.0,,,False
+49,Colorado,2.0,71.0,1773.0,True
+50,England,2.0,,,False
+51,Hawaii,2.0,,69.0,True
+52,Iowa,2.0,14.0,485.0,True
+53,Massachusetts,2.0,77.0,946.0,True
+54,North Dakota,2.0,,64.0,True
+55,South Dakota,2.0,,24.0,True
+56,Washington,2.0,334.0,1277.0,True
+57,Aruba,1.0,,,False
+58,Azerbaijan,1.0,,,False
+59,Bahrain,1.0,,,False
+60,Bosnia,1.0,,,False
+61,British Virgin Islands,1.0,,,False
+62,Canada,1.0,,,False
+63,Cayman Islands,1.0,,,False
+64,Finland,1.0,,,False
+65,Honduras,1.0,,,False
+66,Indianapolis,1.0,,,False
+67,Iran,1.0,,,False
+68,Ireland,1.0,,,False
+69,Maine,1.0,87.0,545.0,True
+70,Nevada,1.0,10.0,857.0,True
+71,Nevis,1.0,,,False
+72,Oregon,1.0,16.0,91.0,True
+73,Saudi Arabia,1.0,,,False
+74,St. Croix,1.0,,,False
+75,St. Maarten,1.0,,,False
+76,St. Simon,1.0,,,False
+77,St. Thomas,1.0,,,False
+78,Turkey,1.0,,,False
+79,United Arab Emirates,1.0,,,False
+80,Wyoming,1.0,,52.0,True
+81,Rhode Island,,87.0,607.0,True
+82,Minnesota,,67.0,958.0,True
+83,Vermont,,45.0,510.0,True
+84,New Hampshire,,33.0,335.0,True
+85,Delaware,,29.0,296.0,True
+86,Michigan,,12.0,673.0,True
+87,Washington DC,,11.0,336.0,True
+88,Montana,,,18.0,True
+89,Alaska,,,15.0,True
