@@ -3,6 +3,7 @@ This repository is to showcase the visualizations/dashboards I created during pr
 
 ## Table of Contents
 - [WordClouds](#wc)
+  - [Mickey Mouse](#mickey)
   - [FANNG](#fanng)
   - [Programming Languages in the Metaverse](#metaverse)
   
@@ -23,6 +24,11 @@ This repository is to showcase the visualizations/dashboards I created during pr
 ***
 
 # WordClouds<a name="wc"></a>
+### [Mickey Mouse](https://medium.com/mlearning-ai/wordclouds-with-python-c287887acc8b?source=user_profile---------3----------------------------)<a name="mickey"></a>
+
+![mickey_wordcloud copy](https://user-images.githubusercontent.com/105242871/197261112-d9f828c6-b0ab-403b-a9b1-29da39850221.jpg)
+
+
 ### [FANNG](https://medium.com/mlearning-ai/wordclouds-with-python-c287887acc8b)<a name="fanng"></a>
 I wrote an article on how to create and customize word clouds in Python, and I used FAANG companies' logos as examples for illustration.
 
