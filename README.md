@@ -136,6 +136,7 @@ The interactive dashboard is one of the component of the web app I built with St
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/105242871/194726242-3729acec-607a-4459-bc50-c5c20e60aa23.gif)
 
 ### [Spooky Oreo Cookie Monster](https://oreocookies-dash.streamlitapp.com/)<a name="oreo"></a>
+A playful dashboard comparing Halloween limited edition Oreo cookies with other flavors. What's your favorite Oreo?
 
 ![spooky_dash](https://user-images.githubusercontent.com/105242871/197112116-a0f798c4-d2e0-4b4f-9a05-ec0f205da2e8.jpg)
 
