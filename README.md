@@ -127,7 +127,7 @@ Bar chart race illustrating selected-categories CPI changes in the United States
 
 ***
 
-# Tableau Dashbaords<a name="dashboards"></a>
+# Dashbaords<a name="dashboards"></a>
 ### Aliens in America Competition<a name="aliens"></a>
 This dashboard looks nothing like most dashborads I've created before, and I had so much fun with it! I hope to emphasize the Alien theme, and to break the "traditional rules" of dashboard design. This competition is hosted by [Ian Klosowicz](https://www.linkedin.com/in/ian-klosowicz/), and you can find the dataset [here](https://app.gumroad.com/d/0fb71d07cc5cb8c46be599e272e36eed).
 
