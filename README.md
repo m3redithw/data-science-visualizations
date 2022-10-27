@@ -14,6 +14,7 @@ This repository is to showcase the visualizations/dashboards I created during pr
   - [Social Media Engagement Forecasting](#tiktok)
   - [RoughViz](#roughviz)
   - [United States CPI Prediction](#inflation)
+  - [Adoptable Dogs in the U.S.](#puppy)
   
 - [Dashboards](#dashboards)
   -  [Aliens in America Competition](#aliens)
@@ -120,7 +121,7 @@ Bar chart race illustrating selected-categories CPI changes in the United States
 ![bar_race_demo](https://user-images.githubusercontent.com/105242871/195744888-65bec5db-dd48-45f9-9380-a4153c477907.gif)
 
 
-### [Adoptable Dogs in the U.S.](https://medium.com/@m3redithw/visualization-tools-with-python-2d6c6a0d7a02)
+### [Adoptable Dogs in the U.S.](https://medium.com/@m3redithw/visualization-tools-with-python-2d6c6a0d7a02)<a name="puppy"></a>
 ![COMPARISON DASHBOARD (1)](https://user-images.githubusercontent.com/105242871/198399393-fb1383c0-62a6-4aef-8856-60b647828d21.png)
 
 
