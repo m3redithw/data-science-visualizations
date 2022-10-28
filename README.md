@@ -122,6 +122,7 @@ Bar chart race illustrating selected-categories CPI changes in the United States
 
 
 ### [Adoptable Dogs in the U.S.](https://medium.com/@m3redithw/visualization-tools-with-python-2d6c6a0d7a02)<a name="puppy"></a>
+Data source: [Kaggle](https://www.kaggle.com/datasets/thedevastator/adoptable-dogs-in-the-us)
 ![COMPARISON DASHBOARD (1)](https://user-images.githubusercontent.com/105242871/198399393-fb1383c0-62a6-4aef-8856-60b647828d21.png)
 
 
