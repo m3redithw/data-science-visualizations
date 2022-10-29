@@ -14,6 +14,7 @@ This repository is to showcase the visualizations/dashboards I created during pr
   - [Social Media Engagement Forecasting](#tiktok)
   - [RoughViz](#roughviz)
   - [United States CPI Prediction](#inflation)
+  - [Adoptable Dogs in the U.S.](#puppy)
   
 - [Dashboards](#dashboards)
   -  [Aliens in America Competition](#aliens)
@@ -119,9 +120,15 @@ This visualization package developed by [**Jared Wilber**](https://www.linkedin.
 Bar chart race illustrating selected-categories CPI changes in the United States from 1957 to 2022.
 ![bar_race_demo](https://user-images.githubusercontent.com/105242871/195744888-65bec5db-dd48-45f9-9380-a4153c477907.gif)
 
+
+### [Adoptable Dogs in the U.S.](https://medium.com/@m3redithw/visualization-tools-with-python-2d6c6a0d7a02)<a name="puppy"></a>
+Data source: [Kaggle](https://www.kaggle.com/datasets/thedevastator/adoptable-dogs-in-the-us)
+![COMPARISON DASHBOARD (1)](https://user-images.githubusercontent.com/105242871/198399393-fb1383c0-62a6-4aef-8856-60b647828d21.png)
+
+
 ***
 
-# Tableau Dashbaords<a name="dashboards"></a>
+# Dashbaords<a name="dashboards"></a>
 ### Aliens in America Competition<a name="aliens"></a>
 This dashboard looks nothing like most dashborads I've created before, and I had so much fun with it! I hope to emphasize the Alien theme, and to break the "traditional rules" of dashboard design. This competition is hosted by [Ian Klosowicz](https://www.linkedin.com/in/ian-klosowicz/), and you can find the dataset [here](https://app.gumroad.com/d/0fb71d07cc5cb8c46be599e272e36eed).
 
