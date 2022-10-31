@@ -6,6 +6,7 @@ This repository is to showcase the visualizations/dashboards I created during pr
   - [Mickey Mouse](#mickey)
   - [FANNG](#fanng)
   - [Programming Languages in the Metaverse](#metaverse)
+  - [Halloween](#halloween)
   
 - [Charts & Graphs](#graphs)
   - [Customer Churn Prediction](#telco)
@@ -83,6 +84,10 @@ Me and my teammates worked on a [NLP project](https://github.com/MBM-nlp/github_
 **TypeScript**
 
 ![contour_typescript](https://user-images.githubusercontent.com/105242871/189498728-07c01b7b-6463-4059-82ea-7953ee9c5513.png)
+
+### [Happy Halloween](https://github.com/m3redithw/data-science-visualizations/blob/main/WordClouds/halloween.ipynb)
+
+![halloween_wc](https://user-images.githubusercontent.com/105242871/199116777-5360544e-494c-4568-bcf5-30b0e6059c33.jpg)
 
 ***
 
