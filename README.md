@@ -16,6 +16,7 @@ This repository is to showcase the visualizations/dashboards I created during pr
   - [RoughViz](#roughviz)
   - [United States CPI Prediction](#inflation)
   - [Adoptable Dogs in the U.S.](#puppy)
+  - [2016 Olympic 10000M Track Records](#olympic)
   
 - [Dashboards](#dashboards)
   -  [Aliens in America Competition](#aliens)
@@ -128,7 +129,14 @@ Bar chart race illustrating selected-categories CPI changes in the United States
 
 ### [Adoptable Dogs in the U.S.](https://medium.com/@m3redithw/visualization-tools-with-python-2d6c6a0d7a02)<a name="puppy"></a>
 Data source: [Kaggle](https://www.kaggle.com/datasets/thedevastator/adoptable-dogs-in-the-us)
+
 ![COMPARISON DASHBOARD (1)](https://user-images.githubusercontent.com/105242871/198399393-fb1383c0-62a6-4aef-8856-60b647828d21.png)
+
+### 2016 Olympic 10000M Track Records<a name="olympic"></a>
+Data source: [Olympics.com](https://olympics.com/en/olympic-games/rio-2016/results/athletics/10000m-men)
+
+![olympic race](https://user-images.githubusercontent.com/105242871/200078940-b91c6977-847b-4c3d-ac58-aa5819395aae.gif)
+
 
 
 ***
