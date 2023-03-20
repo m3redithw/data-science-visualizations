@@ -17,6 +17,7 @@ This repository is to showcase the visualizations/dashboards I created during pr
   - [United States CPI Prediction](#inflation)
   - [Adoptable Dogs in the U.S.](#puppy)
   - [2016 Olympic 10000M Track Records](#olympic)
+  - [3D Embedding](#tensorflow)
   
 - [Dashboards](#dashboards)
   -  [Aliens in America Competition](#aliens)
@@ -137,6 +138,10 @@ Data source: [Olympics.com](https://olympics.com/en/olympic-games/rio-2016/resul
 
 ![olympic race](https://user-images.githubusercontent.com/105242871/200078940-b91c6977-847b-4c3d-ac58-aa5819395aae.gif)
 
+
+### 3D Embedding <a name="tensorflow"></a>
+
+https://user-images.githubusercontent.com/105242871/226428666-f2b56e3c-591a-4a22-96d4-8fb1918c5632.mov
 
 
 ***
