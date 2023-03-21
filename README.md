@@ -1,4 +1,5 @@
 # Data Science Visualizations
+
 This repository is to showcase the visualizations/dashboards I created during projects and my spontaneous explorations. Hope they serve as visual inspirations for you and me :)
 
 ## Table of Contents
